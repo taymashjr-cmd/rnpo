@@ -8,6 +8,7 @@ and adding a third (e.g. Schools, Government) is one config file away.
 ---
 
 
+
 ## The idea: one engine, many audiences
 
 Every landing page is the **same set of components** rendering a different **config object**.
